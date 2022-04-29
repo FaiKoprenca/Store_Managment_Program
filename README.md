@@ -10,8 +10,8 @@ different views and usage of the software. Each of these users has a username an
 the software.
 
 
-              Cashier -> Has the right to check out the tech-items that a customer may need from the CD-Store. This means that
-the cashier should create a bill and enter the data of the bought item, such as the title of the CD and its quantity. If
+              Cashier -> Has the right to check out the tech-items that a customer may need from the CD-Store.
+The cashier should create a bill and enter the data of the bought item, such as the title of the CD and its quantity. If
 the CD does not exist or is out of stock, it should automatically give him an alert about it. The software should
 provide him the total amount of the bill and it should be in a printable format ([BillNo].txt). The updates in the
 software file should be done automatically by adding the data into the respective files.
